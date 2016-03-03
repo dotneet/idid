@@ -1,7 +1,6 @@
-package net.devneko.kotspark.idid;
+package net.devneko.idid;
 
 import junit.framework.TestCase;
-import org.junit.Test;
 
 public class IdGeneratorTest extends TestCase {
 

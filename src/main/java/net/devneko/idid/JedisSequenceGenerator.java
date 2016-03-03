@@ -1,4 +1,4 @@
-package net.devneko.kotspark.idid;
+package net.devneko.idid;
 
 import redis.clients.jedis.Jedis;
 
