@@ -1,4 +1,4 @@
-package net.devneko.idid;
+package net.devneko.kotspark.idid;
 
 import java.util.Random;
 
